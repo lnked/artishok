@@ -1,0 +1,21 @@
+
+
+.old0 {
+	font-size: 18px;
+    color: white;
+    font-weight: bold;
+    text-decoration: line-through;
+    background-color: #fff;
+    padding: 0 20px;
+    line-height: 25px;
+    display: initial;
+}
+
+.go-shopping a, .go-order a {
+	color: #fff;
+	text-decoration: none;
+}
+
+body .catalog .headline.filter-inc .filters .price-f i.price2 {
+    background: rgba(0, 0, 0, 0) url("../images/price_filter_2.png") no-repeat scroll 0 0;
+}
